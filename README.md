@@ -1,5 +1,6 @@
 # Digital-Marketing-Class
-This homework can be found at http://127.0.0.1:5500/index.html
+This homework can be found at https://ramsey-tisani.github.io/Digital-Marketing-Class/
+
 ![01-html-css-git-homework-demo (1)](https://github.com/ramsey-tisani/Digital-Marketing-Class/assets/128195023/0d94ca7a-efc1-4128-ac6e-6568ab321cdd)
 
 HTML CSS Git Challenge: Code Refactor
